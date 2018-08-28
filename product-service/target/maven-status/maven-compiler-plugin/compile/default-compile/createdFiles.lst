@@ -1,0 +1,11 @@
+com\quebic\product\api\App.class
+com\quebic\product\api\service\impl\ProductServiceImpl.class
+com\quebic\product\api\config\AppConfiguration$1.class
+com\quebic\product\api\service\ProductService.class
+com\quebic\product\api\config\AppConfiguration$2.class
+com\quebic\product\api\config\AppConfiguration.class
+com\quebic\product\api\dao\ProductDao.class
+com\quebic\product\api\controller\ProductController.class
+com\quebic\product\api\model\Product.class
+com\quebic\product\api\security\config\WebSecurityConfig.class
+com\quebic\product\api\dao\impl\ProductDaoImpl.class
