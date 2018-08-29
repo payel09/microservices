@@ -1,4 +1,4 @@
-# Spring properties test
+# Spring properties test 1
 spring:
   application:
     name: product-service
